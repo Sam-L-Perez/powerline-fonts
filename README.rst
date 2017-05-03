@@ -1,3 +1,13 @@
+# This is a mirror for mostly personal use 
+# But feel free to clone if you wish
+
+
+
+
+
+
+
+
 Powerline fonts
 ===============
 
